@@ -1,0 +1,371 @@
+[
+  {
+    "subject" : "russische-kirche",
+    "fact" : "test eintrag",
+    "question" : "test eintrag",
+    "correctAnswer" : "test eintrag",
+    "wrongAnswer1" : "test eintrag",
+    "wrongAnswer2" : "test eintrag",
+    "wrongAnswer3" : "test eintrag"
+  },
+  {
+    "subject" : "russische-kirche",
+    "fact" : "Die Tuerme der Kirche sind goldenfarbig und zwiebelfoermig",
+    "question" : "Welche Farbe haben die Tuerme der Russischen Kirche?",
+    "correctAnswer" : "Gold",
+    "wrongAnswer1" : "Silber",
+    "wrongAnswer2" : "Gelb",
+    "wrongAnswer3" : "Braun"
+  },
+  {
+    "subject" : "russische-kirche",
+    "fact" : "Die Kirche steht auf dem Neroberg",
+    "question" : "Wo befindet sich die Kirche?",
+    "correctAnswer" : "Auf dem Neroberg",
+    "wrongAnswer1" : "Im Nerotal",
+    "wrongAnswer2" : "In der Innenstadt",
+    "wrongAnswer3" : "Am Hauptbahnhof"
+  },
+  {
+    "subject" : "russische-kirche",
+    "fact" : "Zwiebelfoermige goldene Tuerme besitzt die Kirche",
+    "question" : "Welche Form haben die Tuerme der Kirche?",
+    "correctAnswer" : "Zwiebelfoermig",
+    "wrongAnswer1" : "Quadratisch",
+    "wrongAnswer2" : "Viereckig",
+    "wrongAnswer3" : "Kartoffelfoermig"
+  },
+  {
+    "subject" : "russische-kirche",
+    "fact" : "Die Russische Kirche wird auch Griechische Kapelle genannt",
+    "question" : "Wie wird die Russische Kirche noch genannt?",
+    "correctAnswer" : "Griechische Kapelle",
+    "wrongAnswer1" : "Spanische Kapelle",
+    "wrongAnswer2" : "Geologische Kapelle",
+    "wrongAnswer3" : "Geographische Kapelle"
+  },
+  {
+    "subject" : "russische-kirche",
+    "fact" : "Die Kirche zaehlt 5 Tuerme",
+    "question" : "Wie viele Tuerme hat die Kirche?",
+    "correctAnswer" : "5",
+    "wrongAnswer1" : "4",
+    "wrongAnswer2" : "6",
+    "wrongAnswer3" : "3"
+  },
+  {
+    "subject" : "russische-kirche",
+    "fact" : "Das Gold auf den Kuppeln nennt man Blattgold",
+    "question" : "Welches Gold wurde fuer die Tuerme verwendet?",
+    "correctAnswer" : "Blattgold",
+    "wrongAnswer1" : "Plattgold",
+    "wrongAnswer2" : "Waldgold",
+    "wrongAnswer3" : "Sattgold"
+  },
+  {
+    "subject" : "russische-kirche",
+    "fact" : "Die Kuppeln wurden 2007 verschoenert",
+    "question" : "Wann wurden die Kuppeln verschoenert?",
+    "correctAnswer" : "2007",
+    "wrongAnswer1" : "2008",
+    "wrongAnswer2" : "2017",
+    "wrongAnswer3" : "2018"
+  },
+  {
+    "subject" : "russische-kirche",
+    "fact" : "Herzog Adolf von Nassau lies die Kirche in Gedenken an seine verstorbene Frau bauen",
+    "question" : "Wer lies die Kirche bauen?",
+    "correctAnswer" : "Herzog Adolf von Nassau",
+    "wrongAnswer1" : "Herzog Rudolf von Nassau",
+    "wrongAnswer2" : "Wehrzeug von Nassau",
+    "wrongAnswer3" : "Nassau von Herzog"
+  },
+  {
+    "subject" : "russische-kirche",
+    "fact" : "Alle stehen waehrend des Gottesdienstes hier",
+    "question" : "Was tun die Glaeubigen einer orthodoxen Kirche waehrend des Gottesdienstes?",
+    "correctAnswer" : "Alle stehen",
+    "wrongAnswer1" : "Alle flehen",
+    "wrongAnswer2" : "Alle laufen",
+    "wrongAnswer3" : "Alle sitzen"
+  },
+  {
+    "subject" : "russische-kirche",
+    "fact" : "In der Kirche gibt es keine Stuehle oder Bankreihen",
+    "question" : "Was gibt es nicht in der Kirche?",
+    "correctAnswer" : "Keine Stuehle oder Bankreihen",
+    "wrongAnswer1" : "Keine maechtige Kuppel",
+    "wrongAnswer2" : "Kein Marmor",
+    "wrongAnswer3" : "Kein Sarkophag"
+  },
+  {
+    "subject" : "neroberg",
+    "fact" : "Die Nerobergbahn faehrt im Nerotal los",
+    "question" : "Wo startet die Nerobergbahn?",
+    "correctAnswer" : "Nerotal",
+    "wrongAnswer1" : "Neratal",
+    "wrongAnswer2" : "Neotal",
+    "wrongAnswer3" : "Neutral"
+  },
+  {
+    "subject" : "neroberg",
+    "fact" : "Vor 200 Jahren befand sich beim heutigen Warmen Damm ein grosser Teich",
+    "question" : "Was befand sich vor 200 Jahren dort wo heute die Parkanlage Warmer Damm ist?",
+    "correctAnswer" : "Grosser Teich",
+    "wrongAnswer1" : "Kleiner Teich",
+    "wrongAnswer2" : "Grosses Reich",
+    "wrongAnswer3" : "Nichts"
+  },
+  {
+    "subject" : "neroberg",
+    "fact" : "Mit dem Auto oder zu Fuss kann man auch den Berg erklimmen",
+    "question" : "Kann man den Berg auch ohne die Nerobergbahn erreichen?",
+    "correctAnswer" : "Ja zum Beispiel zu Fuss",
+    "wrongAnswer1" : "Nein man muss mit der Bahn fahren",
+    "wrongAnswer2" : "Nur im Sommer",
+    "wrongAnswer3" : "Mit dem Zug ist es moeglich"
+  },
+  {
+    "subject" : "neroberg",
+    "fact" : "Die Loewenterasse ist beruehmt",
+    "question" : "Wie heisst die Terasse auf dem Neroberg?",
+    "correctAnswer" : "Die Loewenterasse",
+    "wrongAnswer1" : "Die Moewenterasse",
+    "wrongAnswer2" : "Die Neroterasse",
+    "wrongAnswer3" : "Die Stadtterasse"
+  },
+  {
+    "subject" : "neroberg",
+    "fact" : "Ueber den Weinberg kann man auf die Stadt schauen",
+    "question" : "Was kann man von dem Weinberg aus sehen?",
+    "correctAnswer" : "Ausblick auf die Stadt",
+    "wrongAnswer1" : "Ausblick auf den Kletterpark",
+    "wrongAnswer2" : "Die beruehmte Terasse",
+    "wrongAnswer3" : "Parkplaetze des Nerobergs"
+  },
+  {
+    "subject" : "neroberg",
+    "fact" : "Das Opelschwimmbad ist ein Freibad und in unmittelbarer Naehe",
+    "question" : "Welches Schwimmbad befindet sich in der Naehe?",
+    "correctAnswer" : "Das Opelschwimmbad",
+    "wrongAnswer1" : "Das Astraschwimmbad",
+    "wrongAnswer2" : "Das Hondaschwimmbad",
+    "wrongAnswer3" : "Das Mopelschwimmbad"
+  },
+  {
+    "subject" : "neroberg",
+    "fact" : "Das Opelschwimmbad ist ein Freibad",
+    "question" : "Was fuer eine Art von Schwimmbad befindet sich in der Naehe??",
+    "correctAnswer" : "Ein Freibad",
+    "wrongAnswer1" : "Ein Hallenbad",
+    "wrongAnswer2" : "Therme",
+    "wrongAnswer3" : "Ein Freiluftbad"
+  },
+  {
+    "subject" : "neroberg",
+    "fact" : "Die Russische Kirche ist auf dem Neroberg",
+    "question" : "Welche Kirche befindet sich auf dem Neroberg?",
+    "correctAnswer" : "Russische Kirche",
+    "wrongAnswer1" : "Mussische Kirche",
+    "wrongAnswer2" : "Heilige Kirche",
+    "wrongAnswer3" : "Ukrainische Kirche"
+  },
+  {
+    "subject" : "neroberg",
+    "fact" : "Das Neroberghotel ist heute nur noch ein Turm",
+    "question" : "Was ist vom alten Neroberghotel uebrig geblieben?",
+    "correctAnswer" : "Der Turm",
+    "wrongAnswer1" : "Das Haus",
+    "wrongAnswer2" : "Die Aussichtsplattform",
+    "wrongAnswer3" : "Das Hotel"
+  },
+  {
+    "subject" : "neroberg",
+    "fact" : "Richtung Norden befindet sich der Kletterwald Neroberg",
+    "question" : "In welcher Himmelsrichtung befindet sich der Kletterwald?",
+    "correctAnswer" : "Richtung Norden",
+    "wrongAnswer1" : "Richtung Sueden",
+    "wrongAnswer2" : "Richtung Westen",
+    "wrongAnswer3" : "Richtung Osten"
+  },
+  {
+    "subject" : "kurhaus",
+    "fact": "Das Kurhaus befindet sich im Mittelpunkt des Wiesbadener Kurecks",
+    "question": "Wo befindet sich das Kurhaus?",
+    "correctAnswer": "Wiesbadener Kurecks",
+    "wrongAnswer1": "Wiesbadener Ecke",
+    "wrongAnswer2": "Stadtpark Wiesbaden",
+    "wrongAnswer3": "Gastronomie"
+  },
+  {
+    "subject" : "kurhaus",
+    "fact": "Das alte Kurhaus wurde 1810 gebaut",
+    "question": "Wann wurde das alte Kurhaus erbaut?",
+    "correctAnswer": "1810",
+    "wrongAnswer1": "1807",
+    "wrongAnswer2": "1809",
+    "wrongAnswer3": "1815"
+  },
+  {
+    "subject" : "kurhaus",
+    "fact": "Im suedlichen Teil befinden sich Teil des Hessischen Staatstheaters",
+    "question": "Was befindet sich im suedlichen Teil des Kurhauses?",
+    "correctAnswer": "Hessisches Staatstheater",
+    "wrongAnswer1": "Hochschule RheinMain",
+    "wrongAnswer2": "Hessisches Migrationsheim",
+    "wrongAnswer3": "Wiesbaden Business-School"
+  },
+  {
+    "subject" : "kurhaus",
+    "fact": "Im noerdlichen Teil befindet sich die Spielbank",
+    "question": "Was befindet sich im noerdlichen Teil des Kurhauses?",
+    "correctAnswer": "Eine Spielbank",
+    "wrongAnswer1": "Das Arbeitsamt",
+    "wrongAnswer2": "Eine Damm",
+    "wrongAnswer3": "Nein"
+  },
+  {
+    "subject" : "kurhaus",
+    "fact": "Der Kurpark ist hinter dem Kurhaus",
+    "question": "Wo ist der Kurpark?",
+    "correctAnswer": "Hinter dem Kurhaus",
+    "wrongAnswer1": "Vor dem Kurhaus",
+    "wrongAnswer2": "Neben dem Kurhaus",
+    "wrongAnswer3": "Ganz woanders"
+  },
+  {
+    "subject" : "kurhaus",
+    "fact": "Das Kurhaus bietet 12 prachtvolle Saele und Salons",
+    "question": "Wie viele Saele und Salons hat das Kurhaus?",
+    "correctAnswer": "12",
+    "wrongAnswer1": "11",
+    "wrongAnswer2": "2",
+    "wrongAnswer3": "10"
+  },
+  {
+    "subject" : "kurhaus",
+    "fact": "Ins Kurhaus passen ueber 1000 Menschen ",
+    "question": "Wie viele Gaeste passen ins Kurhaus?",
+    "correctAnswer": "ueber 1000",
+    "wrongAnswer1": "Bis zu 100",
+    "wrongAnswer2": "Bis zu 500",
+    "wrongAnswer3": "10"
+  },
+  {
+    "subject" : "kurhaus",
+    "fact": "Eine Tiefgarage bietet das Kurhaus auch!",
+    "question": "Wo kann man mit dem Auto parken wenn man zum Kurhaus moechte? ",
+    "correctAnswer": "Tiefgarage",
+    "wrongAnswer1": "Flugplatz",
+    "wrongAnswer2": "Im Kurhaus",
+    "wrongAnswer3": "Es gibt keine Parkmoeglichkeiten"
+  },
+  {
+    "subject" : "kurhaus",
+    "fact": "Was Kurhaus Wiesbaden besteht aus zwei gleich grossen Fluegeln",
+    "question": "Was Kurhaus Wiesbaden besteht aus zwei gleich grossen ....?",
+    "correctAnswer": "Fluegeln",
+    "wrongAnswer1": "Schmetterlingen",
+    "wrongAnswer2": "Saeulen",
+    "wrongAnswer3": "Augen"
+  },
+  {
+    "subject" : "kurhaus",
+    "fact": "Im Kurhaus befindet sich seit 1954 eine Orgel",
+    "question": "Was findet man in dem Kurhaus wieder? ",
+    "correctAnswer": "Eine Orgel",
+    "wrongAnswer1": "Keine Orgel",
+    "wrongAnswer2": "Die Firma Sauer",
+    "wrongAnswer3": "Der Foerderverein"
+  },
+  {
+    "subject" : "warmer-damm",
+    "fact": "Die Parkanlage Warmer Damm wurde in der Wiesbadener Altstadt angelegt",
+    "question": "In welchem Stadteil liegt die Parkanlage 'Warmer Damm' ?",
+    "correctAnswer": "Altstadt",
+    "wrongAnswer1": "Innenstadt",
+    "wrongAnswer2": "Bierstadt",
+    "wrongAnswer3": "Dammstadt"
+  },
+  {
+    "subject" : "warmer-damm",
+    "fact": "Vor 200 Jahren befand sich beim heutigen Warmen Damm ein grosser Teich",
+    "question": "Was befand sich vor 200 Jahren dort wo heute die Parkanlage Warmer Damm ist?",
+    "correctAnswer": "Grosser Teich",
+    "wrongAnswer1": "Kleiner Teich",
+    "wrongAnswer2": "Grosses Reich",
+    "wrongAnswer3": "Nichts"
+  },
+  {
+    "subject" : "warmer-damm",
+    "fact": "Ein Damm trennte die Stadt von diesem Teich",
+    "question": "Was trennte die Stadt von diesem Teich?",
+    "correctAnswer": "Ein Damm",
+    "wrongAnswer1": "Ein Fluss",
+    "wrongAnswer2": "Eine Teichmauer",
+    "wrongAnswer3": "Nerobergbahn"
+  },
+  {
+    "subject" : "warmer-damm",
+    "fact": "Abfluesse der vielen Wiesbadener Thermalquellen sammelten sich im Teich",
+    "question": "Welche Abfluesse muendeten in den ehemaligen Teich?",
+    "correctAnswer": "Abfluesse der Wiesbadener Thermalquellen",
+    "wrongAnswer1": "Thermalwellen der Abfluesse",
+    "wrongAnswer2": "Quelltherme der Verbalfluesse",
+    "wrongAnswer3": "Wasserfontaenen"
+  },
+  {
+    "subject" : "warmer-damm",
+    "fact": "Teich und Damm waren Teil der Verteidigungsanlagen der Stadt",
+    "question": "Zu welchen Anlagen der Stadt gehoerten der Teich und Damm?",
+    "correctAnswer": "Teil der Verteidigungsanlagen",
+    "wrongAnswer1": "Teil der Angriffsanlagen",
+    "wrongAnswer2": "Teil der Geldanlagen",
+    "wrongAnswer3": "Teil der Klaeranlagen"
+  },
+  {
+    "subject" : "warmer-damm",
+    "fact": "Heute findest du im Park wieder einen Teich, sogar mit einer Wasserfontaene!",
+    "question": "Was laesst sich heutzutage im Park wiederfinden?",
+    "correctAnswer": "Eine Wasserfontaene",
+    "wrongAnswer1": "Ein Wasserfall",
+    "wrongAnswer2": "Ein Meer",
+    "wrongAnswer3": "Ein Pirat"
+  },
+  {
+    "subject" : "warmer-damm",
+    "fact": "Die Statue vom deutschen Kaiser Wilhelm I. steht im Park ",
+    "question": "Die Statue eines deutschen Kaisers steht im Park. Wie ist sein Name?",
+    "correctAnswer": "Kaiser Wilhelm I",
+    "wrongAnswer1": "Kaiser Wilhelm II",
+    "wrongAnswer2": "Kaiser Wilhelmus IV",
+    "wrongAnswer3": "Kaiser William Shakespeare"
+  },
+  {
+    "subject" : "warmer-damm",
+    "fact": "An Tischen und auf Feldern wird Schach gespielt ",
+    "question": "Wie heisst das Spiel, das man an Tischen und auf grossen Feldern im Park spielen kann? ",
+    "correctAnswer": "Schach",
+    "wrongAnswer1": "Dame",
+    "wrongAnswer2": "Muehle",
+    "wrongAnswer3": "Mensch aerger dich nicht"
+  },
+  {
+    "subject" : "warmer-damm",
+    "fact": "Der Warme Damm darf nicht veraendert werden, denn er steht unter Denkmalschutz ",
+    "question": "Darf der Damm in seiner grundform veraendert werden? ",
+    "correctAnswer": "Nein",
+    "wrongAnswer1": "Ja",
+    "wrongAnswer2": "Nur zerstoeren darf man Ihn",
+    "wrongAnswer3": "Mit Aufsicht der Eltern"
+  },
+  {
+    "subject" : "warmer-damm",
+    "fact": "Die Nilgans sind Gaense, die aus aegypten eingewandert sind ",
+    "question": "Von wo sind die Nilgans eingewandert? ",
+    "correctAnswer": "aegypten",
+    "wrongAnswer1": "aethiopien",
+    "wrongAnswer2": "Afghanistan",
+    "wrongAnswer3": "Netpygae"
+  }
+]

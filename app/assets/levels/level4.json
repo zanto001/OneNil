@@ -1,0 +1,49 @@
+{
+    "level": {
+        "level": "4"
+    },
+    "assets": {
+        "map_tiles": { "type": "image", "source": "assets/images/tiles_spritesheet.png" },
+        "Sprite_Map_klein": { "type": "image", "source": "assets/images/Sprite_Map_klein.png" },
+        "tree3": { "type": "image", "source": "assets/images/tree3.png" },
+        "test": { "type": "image", "source": "assets/images/tiles.png" },
+        "kurhaus_spritesheet": { "type": "image", "source": "assets/images/kurhaus_spritesheet.jpg" },
+        "player_spritesheet": { "type": "spritesheet", "source": "assets/images/Bürgermeister_klein.png", "frame_width": 32, "frame_height": 48 },
+        "slime_spritesheet": { "type": "spritesheet", "source": "assets/images/gegner_1_boden_klein.png", "frame_width": 40, "frame_height": 22, "frames": 2  },
+        "red_slime_spritesheet": { "type": "spritesheet", "source": "assets/images/gegner_1_boden_rot_klein.png", "frame_width": 40, "frame_height": 22, "frames": 2  },
+        "green_spritesheet": { "type": "spritesheet", "source": "assets/images/Gegner_Boden_2_klein.png", "frame_width": 36, "frame_height": 48, "frames": 3  },
+        "fly_spritesheet": { "type": "spritesheet", "source": "assets/images/gegner_Luft_klein.png", "frame_width": 40, "frame_height": 22, "frames": 2 },
+        "goal_image": { "type": "image", "source": "assets/images/goal.png" },
+        "checkpoint_image": { "type": "image", "source": "assets/images/Checkpoint_klein.png" },
+        "coin_spritesheet": { "type": "spritesheet", "source": "assets/images/Coin_klein.png", "frame_width": 26.5, "frame_height": 36, "frames": 3  },
+        "paperball": { "type": "image", "source": "assets/images/papier_klein2.png" },
+        "infobox_image": { "type": "image", "source": "assets/images/infobox.png" },
+        "jag_image": { "type": "image", "source": "assets/images/Zacke_klein.png","frame_width": 35, "frame_height": 35 },
+        "fire_spritesheet": { "type": "spritesheet", "source": "assets/images/Sprite_feuer.png", "frame_width": 64, "frame_height": 128, "frames": 32  },
+        "shootButton": { "type": "image", "source": "assets/images/wButton.png"},
+        "jumpButton": { "type": "image", "source": "assets/images/sButton.png"},
+        "rightButton": { "type": "image", "source": "assets/images/rightButton.png"},
+        "jumpButtonDpad": { "type": "image", "source": "assets/images/jumpButton.png"},
+        "leftButton": { "type": "image", "source": "assets/images/leftButton.png"},
+        "downButton": { "type": "image", "source": "assets/images/downButton.png"},
+        "speedButton": { "type": "image", "source": "assets/images/rButton.png"},
+        "level_tilemap": { "type": "tilemap", "source": "assets/maps/neroberg_map.json" }
+
+
+    },
+    "groups": [
+        "goals",
+        "checkpoints",
+        "coins",
+        "enemies",
+        "players",
+        "hud",
+        "shootobjects",
+        "infobox",
+        "destroyObject"
+    ],
+    "map": {
+        "key": "level_tilemap",
+        "tilesets": ["map_tiles", "map_tiles"]
+    }
+}
